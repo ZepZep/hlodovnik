@@ -12,7 +12,11 @@ prof: "... Štěpáne, myslím si, že ses z té důtky ponaučil, jsem za to ve
 Kvinta	Český jazyk - prof. Martina Literáková	prof: "Kdy můžeme někomu skočit do řeči a není to neslušné?"
 Dandi: "No, třeba když hoří."
 
+Kvinta	Matematika - prof. Pavel Boucník	prof (naštvaně): "Jestli je vám to jasný... (uvědomí si, že nemá co dodat)... tak stejně mlčte!"
+
 Kvinta	Matematika - prof. Pavel Boucník	prof: (mluví o všeobecných třídách) "No, pro ty normální je to ...tím  teda nechci říct, že vy nejste normální... No, vlastně (podívá se nás) ... Prostě, pro ty normální by to bylo takhle!"
+
+Kvinta	Matematika - prof. Pavel Boucník	prof: "Dělit nulou nelze, takže my si to samozřejmě vyzkoušíme."
 
 Kvinta	Matematika - prof. Pavel Boucník	prof: "Kdo to chápe?" 
 třída: (přihlásí se asi 5 lidí)
@@ -38,11 +42,26 @@ Kvinta	Matematika - prof. Pavel Boucník	(Středeční matematika, první hodina
 Kvinta	Matematika - prof. Pavel Boucník	prof: "... označíme tu rovnici kosočtvercem, nevím, proč je tam zrovna kosočtverec..."
 Tadeáš B. (po chvíli): "Co je tam ta piča?!"
 
+Kvinta	Matematika - prof. Pavel Boucník	Petr S: "Ale pane profesore, když za to x dosadíme 1, tak ta věta nemusí platit."
+prof: "Eh (začne o tom přemýšlet, po asi 5 minutách). Né, moment. Tohle určitě platí. Já jenom určitě blbě přemýšlím!"
+
+Kvinta	Matematika - prof. Pavel Boucník	(Hádáme se o tom, jestli daná věta platí. První část důkazu ekvivalence je označena pouze jako "zřejmé")
+prof: "No, tak to musí být chyba v tom důkazu. (po zkontrolování): Ne, je dobře."
+Bára V.: "Třeba je chyba v tom "zřejmé" ."
+
 Kvinta	Matematika - prof. Pavel Boucník	(Při písemce)
 prof: "Honzo (P.), kam se to díváš?!"
 Štěpán B.: "Tady toho fakt moc nenajdeš."
 
 Kvinta	Matematika - prof. Pavel Boucník	prof: "Kdo to chápe? Nikdo? No, popravdě jsem doufal, že budu úspěšnější..."
+
+Kvinta	Matematika - prof. Pavel Boucník	(Píšeme písemku. Tadeáš se téměř ihned po dodiktování zvedne k odevzdání písemky)
+prof: (nadšeně z geniality svého studenta) "Tadeáši! Ty už to máš?!"
+Tadeáš B. (naprosto klidně). "Ne, já to prostě nevím."
+
+Kvinta	 Matematika - cvičení - prof. Aleš Kobza	prof: "Spěchejme pomalu!"
+
+Kvinta	 Matematika - cvičení - prof. Aleš Kobza	prof: "Vy počítáte jak exministr Kalousek!"
 
 Kvinta	 Matematika - cvičení - prof. Aleš Kobza	(Chybí Lucka B. a Matěj si sednul za Luckou H.)
 prof: "Dívám se, že Matěj provozuje zákon zachování Lucek!"
@@ -58,6 +77,8 @@ Kvinta	 Matematika - cvičení - prof. Aleš Kobza	prof: "... a teď to musíte 
 Zuzka Kuchařová: "... umocnit..."
 prof: "...na třetí! Enjoy!"
 
+Kvinta	 Matematika - cvičení - prof. Aleš Kobza	prof: "4. Newtonův pohybový zákon. Když to nejde silou F, jde to silou 2F."
+
 Kvinta	 Matematika - cvičení - prof. Aleš Kobza	(Prof. vejde do třídy, neřekne ani slovo a místo pozdravu pronese:)
 prof: "Jáááj!"
 
@@ -69,6 +90,9 @@ prof: "Beru to jako výzvu."
 
 Kvinta	 Matematika - cvičení - prof. Aleš Kobza	prof: "Tohle si někam zapište. Zuzce došla slova."
 
+Kvinta	 Matematika - cvičení - prof. Aleš Kobza	prof (chce rozdávat pluska) "Kdo to měl správně? VŠICHNI! To mě těší! To budou určitě z 25 bodovky samé..."
+kdosi: "...jedničky." 
+
 Kvinta	 Matematika - cvičení - prof. Aleš Kobza	(Ondra B. měl spočítat 125-94 bez kalkulačky.)
 prof: "Kupecké počty! Vzdycháte jako v neslušném snímku!"
 
@@ -79,11 +103,20 @@ prof: "Ona NEVÍ co s tím! (radostný smích, úsměv, jak kdyby začínaly Vá
 Kvinta	 Matematika - cvičení - prof. Aleš Kobza	(Lucka H. popíše velmi neefektivním způsobem půlku tabule)
 prof: "Ano, vidím, že jste, Lucko, úspěšným absolventem kurzu úsporného psaní Zuzany Kuchařové."
 
+Kvinta	 Matematika - cvičení - prof. Aleš Kobza	prof: "Přemýšlím, jestli mám černé kalho..."
+Zuzka K.: "JO! Máte!"
+
+Kvinta	 Matematika - cvičení - prof. Aleš Kobza	prof: "Zuzko, jaké by bylo vaše vysněné povolání?"
+Zuzka K.: "Spalovač mrtvol."
+
 Kvinta	 Matematika - cvičení - prof. Aleš Kobza	Zuzka K.: "Proč tady značíme řešení rovnice jako K a v normální matice jako P?"
 Lucka H.: "Protože K jako Kobza a P jako Pavel." 
 
 Kvinta	 Matematika - cvičení - prof. Aleš Kobza	(Matěj si od Lucky B. přesednul k její sestře, Peťce.)
 prof: "No, v září byl ten zasedací pořádek jinak. Aspoň můžu říct, že Matěj zůstal věrný rodině."
+
+Kvinta	 Matematika - cvičení - prof. Aleš Kobza	(Prof. čte zadání příkladu)
+prof: "Poměr mezi muži byl... CO?!" 
 
 Kvinta	 Fyzika - prof. Pavel Řehák 	Štěpán (u tabule): "Já si asi nepa... vlastně určitě si nepamatuju ten vzorec."
 
@@ -92,6 +125,8 @@ Kvinta	 Fyzika - prof. Pavel Řehák 	(Prof. Kobza je nemocný)Holky: "Pane prof
 Kvinta	 Fyzika - prof. Pavel Řehák 	prof: "Ty seš..."
 Krab: "Úplnej retard."
 prof: "Děkuji."
+
+Kvinta	 Fyzika - prof. Pavel Řehák 	prof: "Pánové, Tadeáši..."
 
 Kvinta	 Fyzika - prof. Pavel Řehák 	prof: "Vezmu si něco kulatého (rozhlíží se a nic nenajde)... Takže, třídní kniha se kutálí..."
 
@@ -107,37 +142,111 @@ Kvinta	Německý jazyk 1 - prof. Pavel Novák	(Štěpán byl poslán s třídnic
 Nějaký student: "Dobrý den, nesu vám třídnici 1.A."
 prof: "Děkuji... Počkat, jak je možné, že třídnice je tu znova a ještě ke všemu dřív než Štěpán?!"
 
+Kvinta	Německý jazyk 1 - prof. Pavel Novák	(řešíme, co budeme dělat o podzimních prázdninách)
+Zuzka Kuchařová: "Ich gehe zum konzentrazion kamp."
+prof: "Óh, wohin?"
+Zuzka Kuchařová: "Zur Jeseníky... Jakože na soustředění, ne do koncentráku!"
+prof: "... schválně, jak poznáte vy, co je zelenina a co ovoce?"
+Lucka H.: "Ovoce je to, co mi chutná víc."
+
 Kvinta	Informatika - prof. Viera Hájková	Lucka H.: "Paní profesorko, proč tam máte vy, vedle toho data, vhajkova, Anežka (Janebová) tam má xjaneb00 a já tam mám Meloun?!" 
+
+Kvinta	Informatika - prof. Viera Hájková	prof: "Ne každý muž snese, když je jeho žena chytřejší než on sám. Já měla ale štěstí, mému muži to nevadí."
+
+Kvinta	Informatika - prof. Pavel Krejčí	prof: "Ticho, ticho! Blanka přemýšlí!"
 
 Kvinta	Informatika - prof. Pavel Krejčí	prof: "Blanka už to má, takže byste to měli mít všichni...!"
 
 Kvinta	Informatika - prof. Pavel Krejčí	(Někteří studenti vypomáhají na krajském kole SOČ tím, že hlídají školní elektroniku v učebnách. Blanka šla vyfasovat svůj notebook)
 prof: "Blanko?! Ty seš (smích) technická podpora?!"
 
+Kvinta	Chemie - prof. Veronika Kyasová	prof: "Já se vám do písemky vždycky snažím dát lehčí příklady, než jsme dělali na hodině."
+třída: "To jste hodná. Profesor Boucník to dělá přesně naopak."
+
 Kvinta	Chemie - prof. Veronika Kyasová	prof: (cosi vykládá...) "... Štěpáne! Nespěte tam! Já tady neopakuju kvůli tomu, abyste spal na lavici! 
 (za cca 5 min)  Štěpáne! To, že jsem vám řekla, že nemáte spát na lavici, neznamená, že smíte spát vsedě!"
+
+Kvinta	Zeměpis - prof. Eduard Pataki	(P. prof. pošle Štěpána k němu do kabinetu, aby mu přinesl: notebook, napájecí kabel a tyč na zapínání dataprojektoru)
+prof. (na Štěpána) "... a projev při plnění tvého úkolu dostatečnou inteligenci!"
+(Štěpán je už skoro ve dveřích, najednou se otočí)
+Štěpán Balážik : "Nenarazím tam na nic, na co bych narazit neměl, že?"
+prof. (v té době s rýmou) "Maximálně na posmrkané kapesníky..., na hodně posmrkaných kapesníků...!"
+(Štěpán se vrací a nese: notebook, napájecí kabel, tyč na zapínání dataprojektoru a ještě nese nějaké papíry...)
+Štěpán Balážik: "Při plnění svého úkolu jsem projevil zřejmě více inteligence, než bylo potřeba... Donesl jsem ještě tyto papíry, na kterých bylo "1.A rozdat". 
+prof. : "To jsem po tobě ale nechtěl, takže je dones zpátky!"
+
+Kvinta	Zeměpis - prof. Eduard Pataki	 (Den voleb do Poslanecké sněmovny 2013)
+prof: "Dnes máme poslední demokratický pátek."
 
 Kvinta	Zeměpis - prof. Eduard Pataki	prof: "Štěpáne, jak je tam?"
 Štěpán Balážik: "Eh, vlhko a sucho."
 
 Kvinta	Zeměpis - prof. Eduard Pataki	prof: "Teda, vy jste tak dobří! A víte proč? Máte výborného učitele!"
 
+Kvinta	Zeměpis - prof. Eduard Pataki	prof: "Řekněme, že Pataki je geologický činitel. Takže jestli si Pataki vezme kladivo a bude bušit do skály, tak se ze skály stane zvětralina."
+
+Kvinta	Zeměpis - prof. Eduard Pataki	prof: "Máte tuto knihu?"
+třída: "Ano."
+prof: "Učí se vám z ní dobře?"
+třída: "Ano."
+prof: "Líbí se vám ty obrázky?"
+třída: "Ano."
+prof: "Jste s ní spokojení?"
+třída: "Ano."
+prof: "Rozpadá se vám?"
+třída: "Ne."
+prof: "To přijde."
+
+Kvinta	Zeměpis - prof. Eduard Pataki	prof: "... svět se dělí na lidi a ženy."
+
 Kvinta	Zeměpis - prof. Eduard Pataki	(Prof. zkouší Michala a je to dost zoufalé...)
 prof: "No, tak nějaká další náboženství! Třeba v Izraeli!"
 Michal Š: "Jéžišmárjá."
 prof: "To tam právě není."
 
+Kvinta	Zeměpis - prof. Eduard Pataki	(Petr Z. má v prezentaci "vzdušný výr")
+prof: "Á, pán je ornitolog!"
+
 Kvinta	Dějepis - prof. Alena Hanáková	prof (postupně zvyšuje hlas) "Čísla panovníků se zásadně píší ŘÍMSKÝMI ČÍSLICEMI! 
 BO - RÝS - KU!" 
+
+Kvinta	Dějepis - prof. Alena Hanáková	prof: "Zelina je kde? Sbor? Na toho se těším. Poslední, kdo nebyl zkoušený. Toho si vychutnám! Klidně mu to vyřiďte."
 
 Kvinta	Dějepis - prof. Alena Hanáková	Anežka J.: "Paní profesorko, nemohla bych se prosím nechat vyvolat zítra...?"
 prof: "No to ne! Vypadám snad jako Armáda spásy?"
 
 Kvinta	Dějepis - prof. Alena Hanáková	prof: "Dějepis je exaktní věda."
 
+Kvinta	Dějepis - prof. Alena Hanáková	prof: "Jak byste se ohodnotil?"
+Matěj Ž.: "Za pět?"
+prof: "Alespoň na něčem jsme se shodli."
+
+Kvinta	Dějepis - prof. Alena Hanáková	prof: "Mám pro vás dobrou zprávu. Jeden student z 1.C ukončil studium na této škole... (třída vybuchla smíchy), takže tu mám jednu učebnici a jeden atlas. Kdo je chce?"
+
+Kvinta	Dějepis - prof. Alena Hanáková	prof: "Tak mi to přečtěte z té mapy na stěně! Dělejte! Je to tam velkým písmem!"
+David P. (sedí nejblíž) "... uhm. Eh. Co?!"
+prof: "Matematická třída neumí číst, to je výborné. (jde k mapě). Jé, ono je to tam řecky, tak se trochu omlouvám."
+
 Kvinta	Dějepis - prof. Alena Hanáková	Jirka P. : "... a ti se ubránili díky tomu, že je vzbudily husy."
 prof : "Výborně. Víte někdo, proč tam ty husy byly?"
 Tomáš K.: "Oni je používali jako alarm."
+
+Kvinta	Dějepis - prof. Alena Hanáková	prof: "A kde tuto taktiku použili?"
+Dandi: "V bitvě."
+
+Kvinta	Tělesná výchova dívky - prof. Hana Vladíková	(S holkama vcházíme do velké tělocvičny. Skrz sklo na dveřích na nás ťuká student z 1.C, protože chce projít a přímo přede dveřmi stojí prof. Vladíková.)
+student: "Oh, děkuju. Nechtěl jsem vás povalit."
+prof: (posměšně) "Zkus to!"
+
+Kvinta	Tělesná výchova dívky - prof. Hana Vladíková	(Jdeme do parku běhat 100 m)
+prof: "Tak. Toto je start. Cíl bude tam, u branky."
+všechny holky: "To není sto metrů..."
+prof: "Prosím vás, je! Už to tady běhám dost dlouho, tak to vím,ne?"
+(První dvě holky se po dlouhé debatě nachystaly na start)
+Peťka B.:"Připravit. Pozor. Start!"
+sprinterky: "Paní profesorko, tak jaký máme čas?"
+prof: "Hm. Doběhly jste ve světovém rekordu..."
+
 
 Kvinta	Hudební výchova - prof. Irena Ambrozová	prof: (opravuje písemku O. Svobody) "... Jan z Polžic, Bezdružic a Domažlic?! Ale jo, snažil se, beru to."
 
@@ -151,6 +260,9 @@ Honza P.: (důrazně) "Všichni."
 Sexta	Český jazyk - prof. Martina Literáková	(Omluvenky)
 prof: "Dandi?! Ranní nevolnost? To mívají těhotné ženy!"
 
+Sexta	Český jazyk - prof. Martina Literáková	prof: "Vláďo, který úryvek se ti líbil nejvíc?"
+Vláďa: "Ten první, protože byl jediný, který jsem pochopil."
+
 Sexta	Český jazyk - prof. Martina Literáková	prof: "Blani, tak nám přečti svoji slohovku."
 Blanka M.: "Já jsem si vybrala jako téma trapasy. Kdybych ale věděla, že se to bude číst veřejně, tak bych si to nevybrala."
 
@@ -162,6 +274,14 @@ Sexta	Matematika - prof. Pavel Boucník	prof: "Honzo!? Co to máš pod lavicí?!
 
 Sexta	Matematika - prof. Pavel Boucník	(Jako příklad na zobrazení máme náš bodový systém + a -)
 Honza P.:"Já myslím, že to je surjektivní, protože nikdo není takový tragéd, aby dostal nulu!"
+
+Sexta	Matematika - prof. Pavel Boucník	(Vláďovi teče krev z nosu)
+Vláďa (drží si nos a utíká ze třídy): "Já musím..."
+prof: "Běžte s ním radši někdo."
+(Odchází s ním Štěpán)
+Matěj Ž.: "Hej! Ale já s ním sedím!"
+Honza P.: "Ale já mu dal do držky!"
+prof: "Ó, vy jste se tam včera (na prodloužené) porvali o nějakou slečnu?"
 
 Sexta	Matematika - prof. Pavel Boucník	prof: "Tento příklad je za tři body. Pokud ho ale budete mít špatně, strhnu vám čtyři."
 
@@ -184,6 +304,12 @@ prof: "Když si na sebe dáte neopren a pláštěnku, vytvoříte mikroklíma. S
 Sexta	Matematika - cvičení - prof. Aleš Kobza	prof: "Máte nějaké otázky?"
 Zuzka K.: "Kdo byla ta slečna a proč jí tykáte?!"
 
+Sexta	Matematika - cvičení - prof. Aleš Kobza	(Při písemce)
+prof: "Dandi! Do svého!"
+Dandi: "Já neopisuju, já se díval na svoje zadání. Tady!"
+prof: "Dandi!"
+Dandi: "Teď ale vážně."
+
 Sexta	Matematika - cvičení - prof. Aleš Kobza	prof: "Já jsem náhodou během svých studentských let chodil na brigády kopat hezky krumpáčem. A spoustu jsem se toho naučil. Mimo jiné ukrajinsky."
 
 Sexta	Fyzika - prof. Pavel Řehák 	prof: "Na referáty tady jsou... zážehové motory, spalovací motory, motory u raketoplánů..."
@@ -194,6 +320,8 @@ Zuzka K.: "Tak tu beru. To je jediný slovo, kterýmu tam rozumím."
 Sexta	Informatika - prof. Viera Hájková	prof: "... opravdu, jedna z nejdůležitějších věcí je umět pochopit, co se po vás chce. Nebudu jmenovat pana zástupce, ale já často opravdu nevím, co po mně chce."
 Lucka H.:"To byste měla s námi jít do matiky někdy, abyste pochopila myšlenkové pochody profesora Boucníka!"
 prof: "Ne. Pokud něco nechci v životě pochopit, pak jsou to právě myšlenkové pochody profesora Boucníka."
+
+Sexta	Biologie - prof. Iva Kubištová	prof: "Já jsem se za svůj život chtěla aspoň třikrát stát vegetariánem. Ale když mě vždycky děsně chyběly ty řízky."
 
 Sexta	Chemie - prof. Veronika Kyasová	prof: "Štěpáne, já vás asi přijdu něčím bacit."
 Štěpán: "A proč?"
@@ -219,6 +347,8 @@ Sexta	Dějepis - prof. Alena Hanáková	Štěpán B.: "Paní profesorko, už jse
 prof: "Ano?"
 Štěpán B.: "Prosím, pátek třináctého."
 
+Sexta	Společenské vědy - prof. Markéta Chalupníková	prof: "Po narození si musí dítě zvykat na spoustu nových věcí... Třeba na gravitaci, která v děloze vůbec nebyla." 
+
 Sexta	Společenské vědy - prof. Markéta Chalupníková	prof: "Zuzko, uměla jste to, učila jste se. Jedna."
 Zuzka K (cestou k lavici, mrmlá): "Neučila, ale jsou to společenský vědy, no."
 
@@ -235,12 +365,23 @@ Septima	Český jazyk - prof. Martina Literáková	prof: "Pošlete třídnici do
 
 Septima	Český jazyk - prof. Martina Literáková	prof: "Tadeáši, já ti dám zápisky! Co je tam to prasátko s vrtícím ocáskem?"
 
+Septima	Český jazyk - prof. Martina Literáková	Honza B.:"Ty barvy máme přiřadit k samohláskám bijektivně?"
+
+Septima	Český jazyk - prof. Martina Literáková	Matouš T.:"Symbolismus je velmi složitý na pochopení. Tam vlastně musí člověk  obětovat kus svého já, aby to pochopil."
+prof: "Jo, on to matematik cítí až takhle, jo?"
+
 Septima	Český jazyk - prof. Martina Literáková	(Krab obhajuje ZMP)
 Krab: "... on je opravdu velice starý, je mu třeba 45 let..."
 prof: "Přemýšlím, jestli si už mám jít teda kopat hrob...?"
 
 Septima	Český jazyk - prof. Martina Literáková	(Dandi o surrealistickém textu)
 Dandi: "Abych byl upřímný, mně to přijde jako výklad profesora Boucníka: pátý přes devátý, nechápu to..."
+
+Septima	Matematika - prof. Pavel Boucník	(Písemka. Lucka B. hledá pomoc všude možně.) 
+Boucník: "Lucko (B.)!"
+Lucka B."Tam stejně nic nemá..."
+
+Septima	Matematika - prof. Pavel Boucník	prof: "Nebudeme řešit, jestli je lepší sex v přírodě, nebo matematika!"
 
 Septima	Matematika - prof. Pavel Boucník	(Na začátku června)
 prof: "Tak a zítra budu zkoušet ty, co nebyli. Musíme dát nějaká znamínka!"
@@ -249,6 +390,8 @@ prof: "Počkej, to teda ne! Co kdybych tě vyzkoušel znova?!"
 Lucka H.:"Tak byste mi dal další dvě mínuska. A opět by mi to nevadilo. Takhle byste mohl klidně zkoušet 35 krát a nic by to neměnilo. Tak mě aspoň nemusíte zkoušet."
 prof: "Počkej, počkej, počkej. Tak to ne! To by znamenalo, že celý ten systém je špatný!"
 Ohlušující potlesk třídy.
+
+Septima	Matematika - prof. Aleš Kobza	prof: "Za sebou nesmí jít i-tý a j-tý velbloud."
 
 Septima	Matematika - prof. Aleš Kobza	(Čtvrtletní písemka)
 prof: "Prosím vás, aspoň tu spolu přede mnou neflirtujte..."
@@ -303,6 +446,14 @@ prof: "Tak nic, Jirko, pojďte!"
 Septima	Dějepis - prof. Alena Hanáková	Zuzka K.:"Paní profesorko, to národní obrození budete zkoušet?"
 prof: "No..., budu, ale já ho od té doby, co jsem psala diplomovou práci na národní obrození na Moravě, tak nemám ráda!"
 
+Septima	Dějepis - prof. Alena Hanáková	Hanáková: "Budou Vánoce, chtělo by si to nadělit nějaký dárek."
+Peťka B.:"Můžeme Vám třeba zazpívat?"
+Hanáková: "No, bez toho bych se obešla."
+Peťka B.:"Nebo naopak zpívat nebudeme?"
+Hanáková:"To bych ocenila. Ale měla jsem na mysli samozřejmě písemku."
+
+Septima	Dějepis - prof. Alena Hanáková	prof: " ... ale ty obrázky neberte moc vážně. Tady vypadá Masaryk spíš jako vůdce Vietnamců."
+
 Septima	Společenské vědy - prof. Chalupníková	Honza P.:"No a v tom druhém kole se rozhoduje mezi dvěma kandidáty, to znamená, že aby byl jeden z nich zvolen, tak musí mít nadpoloviční většinu hlasů."
 prof: "Hm... Já jsem to vždycky chápala tak, že stačí, když jeden kandidát má víc hlasů než ten druhý, to jsem nevěděla, že musí získat dokonce nadpoloviční většinu..."
 
@@ -315,16 +466,33 @@ Chalupníková: "Ale co když by pak otěhotněla?"
 Lucka H:"Jenže ono těhotenství zakázaný není, tam je jenom zakázaná ta činnost, která těhotenství předchází. A tu vykonali v Česku, takže by to neměl být problém, ne?"
 (Po chvíli zamyšlení): Chalupníková: "Lucko, tohle opravdu nevím. To budete muset vyzkoušet sama."
 
+Septima	Posluchači, suplování - Matematika	Lacinová: "... jo, Nezhybová ve čtvrťáku do třídnic běžně: "stacionární magnetické pole - opakování, matka moudrosti."
+
+Septima	Posluchači, suplování - Angličtina	prof. Vomelová: "Good morning. I am Karla Vomelová and I am here today instead of Mrs. Ševčíková. I will be teaching you a bit of English today..."
+Peťka B. (nadšeně s ironií v hlase...):"TY JO! TO JE POPRVÉ, CO TENTO ROK SLYŠÍM V ÁJINĚ ANGLIČTINU!"
+
 Septima	Školní výlety, přestávky a jiné víceméně legální akce	prof. Urban: "O facebooku, o tom mi ani nevykládejte. Nedávno jsem se na něj zaregistroval, abych zjistil, co to umí. Horší bylo, že jsem použil email mé ženy. Potom jí začaly chodit zprávy, že si mě chce přidat několik žen, které jsem v životě neviděl. Jenže vysvětlujte to doma!"
 
 Septima	Školní výlety, přestávky a jiné víceméně legální akce	prof. Urban: "Teď vám řeknu, proč byste měli chodit vepředu s učitelem (jako obvykle prof. šel o hodně před námi).  Když jsem tu asi před 5 lety byl, tak tady dole, tam je nuda pláž. Šel jsem a byly tam nějaké dvě nahé slečny. Říkám jim, že mně to teda nevadí, ale za mnou, že jde 60 studentů. Tak mi poděkovaly a spěšně odešly. Kdyby tehdy šli studenti se mnou, viděli by ty slečny, takhle je neviděli."
 
+Septima	Lyžařský výcvikový kurz, Dolní Morava 2014	Stupka: "Dnes jsem byl v nemocnici, zkontroloval jsem to tam. Doktoři byli super, sestřičky taky."
+Hlásenský: "Sestřicky?"
+Stupka: "Jo. Tohle téma přenecháme odborníkovi, profesoru Hlásenskému."
+
 Septima	Výměnné pobyty	Zvolská: "Prosím vás, čeká vás víkend ve vašich hostitelských rodinách. Určitě si ho užijte, hlavně jim pak poděkujte. V případě jakéhokoliv sebemenšího problému mi ihned volejte. Moje telefonní číslo máte. Takže pamatujte, hlavně opatrně..."
 Řihánková: (přeruší prof. Zvolskou): "Prostě se neožerte!"
+
+Septima	Výměnné pobyty	(V lanovém centru, uvazování do popruhů)
+instruktor (na prof. Nováka): "Bacha, máte to mezi nohama fakt dost utažený. Radši si to přendejte, ať vám tam něco nepochroumám na výbavičce. Nevím teda, jestli už máte splněno."
+Novák: "Mám, dvakrát. Možná kdybyste to utáhl, tak by to i leccos doma vyřešilo."
 
 Septima	Malino Brdo, Silvestr 2014	Veselá: "To je taková španělská tradice, že si hrozny namočíme do... uhm ... nealkoholické vodky..."
 
 Septima	Vodácký kurz, 2015, Moravice	Boucník: "Prosím vás, teď si rozdáme vesty bijektivně. Dvě pádla budou vždy přiřazena k jedné lodi. Ježiši, to je nádhera."
+
+Septima	Vodácký kurz, 2015, Moravice	(Nástup)
+Boucník: "Já vám tady nic nového vlastně neřeknu."
+Štěpán B.: "Tak proč jsme sem museli jít?"
 
 Oktáva	Český jazyk - prof. Martina Literáková	prof: „Neexistuje, že si dáte v Praze po obědě třeba pivo.“
 Honza P.:“Ááh!“
@@ -338,8 +506,14 @@ Oktáva	Matematika - prof. Pavel Boucník 	Boucník: „Na to nemáme čas!“
 Oktáva	Matematika - prof. Pavel Boucník 	Boucník: „No, Blanko, ještě bys odmaturovala…“
 Blanka M.: „To nevadí, na podzim jdu stejně kvůli chemii.“
 
+Oktáva	Matematika - prof. Pavel Boucník 	Lucka B: „To máme kontrolovat a zároveň počítat? Jsem sice žena, ale…“
+Boucník: (lišácký úsměv)
+
 Oktáva	Matematika - prof. Aleš Kobza 	(Tomáš Medek je drzý)
 prof: „Prosím vás, kdybyste ho někdo zabil, já to na vás neřeknu.“
+
+Oktáva	Německý jazyk 1 - prof. Lucie Adámková	(Štěpán něco má přeložit a vůbec netuší)
+Adámková: (záchvat smíchu): „Né, já se vám nesměju.“
 
 Oktáva	Fyzika - prof. Pavel Řehák	(Ruch ve třídě)
 Řehák: „Co se děje?“
@@ -349,5 +523,8 @@ Lucka H.: „Tam v tom okně je nahej chlap…“
 Oktáva	Společenské vědy - prof. Chalupníková	prof: „… a ten tvrdil, že populace roste geometrickou řadou, ale potrava pouze aritmetickou.“
 Dandi: „Paní profesorko, tomuto já nerozumím. Chci požádat o vysvětlení geometrické řady.“
 prof: „Ha! A to já tu náhodou mám. Takže geometrická řada je jedna, dva, čtyři, osm…“
+
+Oktáva	Seminář matematických aplikací - prof. Martin Panák	(Po deseti minutách počítání a ticha ve třídě)
+Vláďa Kelbl: „Jaké je zadání?“
 
 

@@ -1,13 +1,16 @@
+import pprint
+from lidi import lidi
+
 def putSection(s):
-    return "\\section*{"+s+"}\n"
+    return "\\section{"+s+"}\n"
 
 def putSubsection(s):
-    return "  \\subsection*{"+s+"}\n"
+    return "  \\subsection{"+s+"}\n"
 
 
 def zavorky(s):
-    s = s.replace("(", "(\\textit{")
-    s = s.replace(")", "})")
+    s = s.replace("(", "\\textit{(")
+    s = s.replace(")", ")}")
     return s
 
 def vypustka(s):
@@ -35,8 +38,9 @@ def uvozovky(s):
 def kurzJmena(s):
     l = s.split(":")
     fin = s
-    if len(l)>1 and len(l[0].split(" ")) < 3:
-        fin = "\\textit{" + l[0] + "}:" + ":".join(l[1:])
+    if len(l)>1 and len(l[0].split(" ")) < 4:
+        fin = "\\textit{" + lidi[l[0]] + "}:" + ":".join(l[1:])
+        jmena.update({l[0]})
     return fin
 
 def makeTexHlod(s):
@@ -44,6 +48,8 @@ def makeTexHlod(s):
     s = uvozovky(s)
     s = vypustka(s)
     return "    \\hlod{"+s+"}\n"
+
+jmena = set()
 
 with open('hlody.txt', 'r') as inFile:
     with open('hlody.tex', 'w') as outFile:
@@ -74,4 +80,9 @@ with open('hlody.txt', 'r') as inFile:
                 continue
             else:
                 hlod += "\\newline\n    " + kurzJmena(line[0:-1]) 
-         
+                
+#for jmeno in jmena:
+    #print("'" + jmeno + "' : '" + jmeno + "'")
+    
+#print(len(jmena))
+
